@@ -6,10 +6,7 @@ category: 'development'
 
 ![](./images/hello.png)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 9bc52614635a5a7ed6f20f6b7277509a344c1334
 ## 1. Support Three frontmatter
 
 ```
