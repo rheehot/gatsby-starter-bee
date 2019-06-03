@@ -6,7 +6,6 @@ category: 'development'
 
 ![](./images/hello.png)
 
-Welcome, Gatsby! This starter is full-package for your new blog!
 
 ## 1. Support Three frontmatter
 
