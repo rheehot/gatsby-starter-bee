@@ -1,12 +1,10 @@
 ---
-title: 'Welcome Bee starter'
+title: 'Welcome Germweapon'
 date: 2019-2-6 16:21:13
 category: 'development'
 ---
 
 ![](./images/hello.png)
-
-Welcome, Gatsby! This starter is full-package for your new blog!
 
 ## 1. Support Three frontmatter
 
